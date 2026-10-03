@@ -108,10 +108,7 @@ Figma Design:
 ## Live Deployment
 
 Live Demo:  
-[ADD LINK]
+[https://blooddrop-clinical-processing.vercel.app/]
 
-## GitHub
 
-Repository:  
-[ADD LINK]
 
