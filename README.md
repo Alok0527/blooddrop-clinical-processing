@@ -103,7 +103,7 @@ The following checks were completed during development:
 ## Figma
 
 Figma Design:  
-[ADD LINK]
+[https://www.figma.com/design/PAZgJiIdfHBiQ5oGF0sPH5/BloodDrop-%E2%80%94-Clinical-Processing-Design-Reference?node-id=2-54]
 
 ## Live Deployment
 
